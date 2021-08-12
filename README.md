@@ -23,6 +23,11 @@ RobinHood's key competitors are Schwab and E*Trade
 
 ---
 ## How does this company use technology to their advantage? Why are they considered a FinTech company?
+Transaction-based Revenues
+Robinhood generates transaction-based revenues by routing its users' orders for options, equites, and cryptocurrencies to market makers, a process known as payment for order flow (PFOF).9
+ Brokerage firms that use PFOF receive a small payment as compensation for directing orders to a particular market maker. The payment is usually only fractions of a penny per share, but can be a significant source of revenue for companies dealing with a large number of orders. PFOF is a major reason Robinhood is able to offer zero-commission trading.
+
+The Robinhood IPO brings into focus a range of new trends in fintech - crypto, new eco-systems, private assets, and the emergence of defi.
 
 
 ---
